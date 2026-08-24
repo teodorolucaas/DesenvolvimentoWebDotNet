@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Comunicacao_Entre_Camadas.props" />
+</Project>
