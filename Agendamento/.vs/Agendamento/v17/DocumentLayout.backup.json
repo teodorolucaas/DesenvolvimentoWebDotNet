@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\migrations\\20260827002740_criacaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:migrations\\20260827002740_criacaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\agendamento.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:agendamento.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T12:18:10.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T12:15:17.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T12:15:08.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260827002740_CriacaoInicial.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Migrations\\20260827002740_CriacaoInicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260827002740_CriacaoInicial.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Migrations\\20260827002740_CriacaoInicial.cs",
+              "RelativeToolTip": "Migrations\\20260827002740_CriacaoInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T00:27:40.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T00:19:16.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-27T00:13:10.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T23:22:58.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Agendamento.csproj",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Agendamento.csproj",
+              "RelativeDocumentMoniker": "Agendamento.csproj",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Agendamento.csproj",
+              "RelativeToolTip": "Agendamento.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-26T23:04:38.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Models\\Medico.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Models\\Medico.cs*",
+              "RelativeToolTip": "Models\\Medico.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T23:03:00.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
