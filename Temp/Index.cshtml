@@ -1,0 +1,33 @@
+﻿@* Define o tipo de dado que a View receberá *@
+@model List<Agendamento.Models.Medico>
+
+@* Define o título da página utilizado pelo _Layout *@
+@{
+    ViewData["Title"] = "Médicos";
+}
+
+<h1>Médicos</h1>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>CRM</th>
+            <th>Especialidade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @* Percorre os objetos recebidos através do Model *@
+        @foreach (var medico in Model)
+        {
+            <tr>
+                @* Razor permite acessar as propriedades e inseri-las no HTML *@
+                <td>@medico.Id</td>
+                <td>@medico.Nome</td>
+                <td>@medico.Crm</td>
+                <td>@medico.Especialidade</td>
+            </tr>
+        }
+    </tbody>
+</table>
