@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedingService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Data\\SeedingService.cs",
+              "RelativeDocumentMoniker": "Data\\SeedingService.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Data\\SeedingService.cs",
+              "RelativeToolTip": "Data\\SeedingService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:27:22.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:05:32.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

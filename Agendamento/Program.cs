@@ -17,14 +17,36 @@ namespace Agendamento
             builder.Services.AddDbContext<AppDbContext>(options => options.UseNpgsql(
                 builder.Configuration.GetConnectionString("DefaultConnection")));
 
+            // Registra o SeedingService na injeção de dependência.
+            // AddScoped cria uma instância do serviço para cada escopo/requisição.
+            builder.Services.AddScoped<SeedingService>();
+
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
+            // Verifica se a aplicação não está sendo executada
+            // no ambiente de produção.
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
+            }
+            else //se estiver em ambiente de desenvolvimento
+            {
+                // Cria manualmente um escopo de injeção de dependência.
+                // Isso é necessário porque o SeedingService e o AppDbContext
+                // foram registrados como serviços Scoped.
+                using (var scope = app.Services.CreateScope())
+                {
+                    // Obtém uma instância do SeedingService dentro do escopo criado.
+                    // O AppDbContext também será fornecido automaticamente
+                    // ao construtor do SeedingService.
+                    var seedingService = scope.ServiceProvider
+                        .GetRequiredService<SeedingService>();
+
+                    // Executa o método responsável por adicionar os dados iniciais.
+                    seedingService.Popula();
+                }
             }
 
             app.UseHttpsRedirection();
