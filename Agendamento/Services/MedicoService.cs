@@ -32,7 +32,8 @@ namespace Agendamento.Services
         {
             // Acessa a tabela Medicos, executa a consulta e transforma
             // os registros retornados em uma lista de objetos Medico.
-            return _context.Medicos.ToList();
+            return _context.Medicos.OrderBy(m => m.Id).ToList(); 
+
         }
 
         // Insere um novo médico no banco de dados.
@@ -47,5 +48,53 @@ namespace Agendamento.Services
             // O Entity Framework Core gera e executa o comando INSERT.
             _context.SaveChanges();
         }
+
+        // Procura um médico no banco de dados utilizando seu identificador.
+        // O parâmetro id representa o identificador do médico procurado.
+        public Medico? EncontrarId(int id)
+        {
+            // O método Find() procura um registro pela chave primária.
+            // Retorna o médico encontrado ou null caso ele não exista.
+            return _context.Medicos.Find(id);
+        }
+
+
+        // Remove um médico do banco de dados.
+        // O parâmetro id representa o identificador do médico que será removido.
+        public void Remover(int id)
+        {
+            // Procura o médico no banco de dados utilizando sua chave primária.
+            var obj = _context.Medicos.Find(id);
+
+            // Verifica se foi encontrado um médico com o identificador informado.
+            // Caso não exista, encerra o método sem realizar nenhuma operação.
+            if (obj == null)
+            {
+                return;
+            }
+
+            // Marca o médico encontrado para remoção.
+            // A alteração ainda não foi gravada definitivamente no banco.
+            _context.Medicos.Remove(obj);
+
+            // Confirma as alterações pendentes.
+            // O Entity Framework Core gera e executa o comando DELETE.
+            _context.SaveChanges();
+        }
+
+
+        // Atualiza os dados de um médico no banco de dados.
+        // O parâmetro obj representa o médico recebido pela controller.
+        public void Atualizar(Medico obj)
+        {
+            // Marca o objeto como modificado no contexto.
+            // A alteração ainda não foi gravada definitivamente no banco.
+            _context.Medicos.Update(obj);
+
+            // Confirma as alterações pendentes.
+            // O Entity Framework Core gera e executa o comando UPDATE.
+            _context.SaveChanges();
+        }
+
     }
 }

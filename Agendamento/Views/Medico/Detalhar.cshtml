@@ -1,0 +1,40 @@
+﻿@model Agendamento.Models.Medico
+
+@{
+    ViewData["Title"] = "Detalhes Médico";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">
+            Nome
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Nome
+        </dd>
+
+        <dt class="col-sm-2">
+            Crm
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Crm
+        </dd>
+
+        <dt class="col-sm-2">
+            Especialidade
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Especialidade
+        </dd>
+    </dl>
+
+    <a asp-action="Editar" asp-route-id="@Model.Id" class="btn btn-outline-secondary">Editar</a>
+    <a asp-action="Index" class="btn btn-outline-info">Voltar</a>
+
+    <hr />
+
+</div>

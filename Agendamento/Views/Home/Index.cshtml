@@ -1,8 +1,52 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="home-agendamento">
+
+    <div class="home-apresentacao">
+        <span class="home-etiqueta">SISTEMA DE AGENDAMENTO</span>
+
+        <h1>Organize os atendimentos<br />de forma simples.</h1>
+
+        <p>
+            Cadastre médicos, pacientes e gerencie os agendamentos<br />
+            da sua clínica de forma prática e eficiente.
+        </p>
+    </div>
+
+    <div class="home-widgets">
+
+        <a asp-controller="Medico" asp-action="Index" class="home-widget">
+            <div class="widget-icone">🩺</div>
+
+            <h2>Médicos</h2>
+
+            <p>Cadastre e gerencie os médicos da clínica.</p>
+
+            <span>Acessar →</span>
+        </a>
+
+        <a asp-controller="Paciente" asp-action="Index" class="home-widget">
+            <div class="widget-icone">👥</div>
+
+            <h2>Pacientes</h2>
+
+            <p>Cadastre e gerencie os pacientes da clínica.</p>
+
+            <span>Acessar →</span>
+        </a>
+
+        <a asp-controller="Agendamento" asp-action="Index" class="home-widget">
+            <div class="widget-icone">🗓️</div>
+
+            <h2>Agendamentos</h2>
+
+            <p>Visualize e gerencie os agendamentos da clínica.</p>
+
+            <span>Acessar →</span>
+        </a>
+
+    </div>
+
 </div>

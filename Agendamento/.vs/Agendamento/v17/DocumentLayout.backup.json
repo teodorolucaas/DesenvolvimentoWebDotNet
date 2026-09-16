@@ -1,50 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\",
+  "WorkspaceRootPath": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\views\\medico\\inserir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\medico\\inserir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\views\\medico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\medico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:services\\medicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|c:\\users\\administrador\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|d:\\onedrive\\unip\\disciplinas\\desenvolvimentowebdotnet\\desenvolvimento\\agendamento\\views\\medico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D05BF22-0DDF-4CFD-AC54-99F19B00FE6F}|Agendamento.csproj|solutionrelative:views\\medico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,145 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T02:58:54.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T02:58:42.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Medico.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Models\\Medico.cs",
-              "RelativeDocumentMoniker": "Models\\Medico.cs",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Models\\Medico.cs",
-              "RelativeToolTip": "Models\\Medico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T02:42:10.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Inserir.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Views\\Medico\\Inserir.cshtml",
-              "RelativeDocumentMoniker": "Views\\Medico\\Inserir.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Views\\Medico\\Inserir.cshtml",
-              "RelativeToolTip": "Views\\Medico\\Inserir.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-10T00:32:26.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T23:52:40.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Views\\Medico\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Medico\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Views\\Medico\\Index.cshtml",
-              "RelativeToolTip": "Views\\Medico\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-09T23:07:07.692Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MedicoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Controllers\\MedicoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MedicoController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Controllers\\MedicoController.cs",
-              "RelativeToolTip": "Controllers\\MedicoController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAkwAcAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T23:04:07.436Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T20:11:47.968Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MedicoService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Services\\MedicoService.cs",
-              "RelativeDocumentMoniker": "Services\\MedicoService.cs",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Services\\MedicoService.cs",
-              "RelativeToolTip": "Services\\MedicoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T22:49:00.698Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SeedingService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Data\\SeedingService.cs",
-              "RelativeDocumentMoniker": "Data\\SeedingService.cs",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Data\\SeedingService.cs",
-              "RelativeToolTip": "Data\\SeedingService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicoController.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "Controllers\\MedicoController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwC8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T00:27:22.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T15:02:19.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABvAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Views\\Medico\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Medico\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Views\\Medico\\Index.cshtml",
+              "RelativeToolTip": "Views\\Medico\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-10T00:25:29.28Z"
+              "WhenOpened": "2026-09-16T14:59:49.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrador\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MedicoService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Services\\MedicoService.cs",
+              "RelativeDocumentMoniker": "Services\\MedicoService.cs",
+              "ToolTip": "D:\\OneDrive\\UNIP\\Disciplinas\\DesenvolvimentoWebDotNet\\Desenvolvimento\\Agendamento\\Services\\MedicoService.cs",
+              "RelativeToolTip": "Services\\MedicoService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwEUAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T00:05:32.283Z"
+              "WhenOpened": "2026-09-16T14:27:15.341Z"
             }
           ]
         }
